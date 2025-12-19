@@ -1,0 +1,14 @@
+{
+  "creators": [
+    "MewykHatesPython",
+    "SomeRandomUserThatDoesNotActuallyExist",
+    {
+      "username": "Mewyk",
+      "media_types": {
+        "images": true,
+        "videos": true,
+        "other": false
+      }
+    }
+  ]
+}
