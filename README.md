@@ -1,6 +1,8 @@
 # Civitai Media Hoarder
 A command-line tool for downloading and managing media content from Civitai creators. Supports batch downloads, media verification, automatic extension correction, and video repair functionality.
 
+![User Interface (Terminal) Screenshot - Updating](Resources/Screenshots/Updating.png)
+
 ## Features
 - **Creator Management**: Add, remove, and update creators in your subscription list
 - **Batch Downloads**: Download images and videos from multiple creators at once
