@@ -26,16 +26,17 @@ rich>=13.0.0
 
 ## Installation
 1. Clone the repository:
-   ```bash
+  ```bash
    git clone https://github.com/Mewyk/CivitaiMediaHoarder.git
    cd CivitaiMediaHoarder
-   ```
+  ```
 2. Install dependencies:
-   ```bash
+  ```bash
    pip install -r requirements.txt
-   ```
+  ```
 3. Configure the application by editing `Configuration.json`:
-   ```json
+   
+  ```json
   {
     "api_key": "YOUR_API_KEY",
     "default_output": "Path/To/Output/Directory",
@@ -71,7 +72,7 @@ rich>=13.0.0
     "memory_threshold_bytes": 2147483648,
     "download_lock_policy": "best_effort"
   }
-   ```
+  ```
 
 ## Usage
 ### Adding Creators
