@@ -1,0 +1,35 @@
+{
+  "api_key": "YOUR_API_KEY",
+  "default_output": "Path/To/Output/Directory",
+  "nsfw": true,
+  "rate_limit": true,
+  "request_timeout": 10,
+  "download_timeout": 10,
+  "max_retries": 2,
+  "retry_backoff_sec": 5,
+  "image_extensions": [
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".gif",
+    ".webp",
+    ".bmp",
+    ".svg"
+  ],
+  "video_extensions": [
+    ".mp4",
+    ".mpg",
+    ".mpeg",
+    ".webm",
+    ".avi",
+    ".mov",
+    ".mkv"
+  ],
+  "default_media_types": {
+    "images": false,
+    "videos": true,
+    "other": false
+  },
+  "memory_threshold_bytes": 2147483648,
+  "download_lock_policy": "best_effort"
+}
